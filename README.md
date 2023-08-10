@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/tamimshah](https://github.com/tamimshah)
 
-- 📄 Know about my experiences [C, Java, HTML, CSS, SRS Documentation, Create Test Case](C, Java, HTML, CSS, SRS Documentation, Create Test Case)
+- 📄 Know about my experiences (C, Java, HTML, CSS, SRS Documentation, Create Test Case, User Profile Create)
 
 - ⚡ Fun fact **I think I am Funny**
 
