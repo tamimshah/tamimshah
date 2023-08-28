@@ -1,5 +1,5 @@
 <h1 align="center">Hello👋, I'm Md. Tahmid Shah Tamim</h1>
-<h3 align="center">Software Quantity Assurance, Developer</h3>
+<h3 align="center">Software Quantity Assurance</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tamimshah&label=Profile%20views&color=0e75b6&style=flat" alt="tamimshah" /> </p>
 
