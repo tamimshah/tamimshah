@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tamimshah&label=Profile%20views&color=0e75b6&style=flat" alt="tamimshah" /> </p>
 
-- 👨‍💻 I’m currently learning **Java**
+- 👨‍💻 I’m currently learning **JavaScript & PHP**
 - 📄 Know about my experiences (C, Java, HTML, CSS, SRS Documentation, Create Test Case, User Profile Create)
 
 
